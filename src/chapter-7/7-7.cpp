@@ -22,7 +22,7 @@ double* full_array(double *p, int limit )
     double x;
     for (int i = 0; i < limit; i++)
     {
-        cout<<"请输入第"<<i<<"个值"<<endl;
+        cout<<"请输入第"<<i<<"个数"<<endl;
         cin>>x;
         *(p + i) = x;
     }
