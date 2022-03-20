@@ -6,3 +6,7 @@
 1647787361 c:\users\xyl_1\desktop\c++\c++ primer plus\c-primer-practice\src\chapter-10\stack\stackc.h
 	<iostream>
 
+1647787987 source:c:\users\xyl_1\desktop\c++\c++ primer plus\c-primer-practice\src\chapter-10\stack\stackc.cpp
+	<iostream>
+	"stackc.h"
+
