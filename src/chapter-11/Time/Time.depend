@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1647963355 source:c:\users\xyl_1\desktop\c++\c++ primer plus\c-primer-practice\src\chapter-11\time\time.cpp
+	<iostream>
+	"time.h"
+
+1647963355 c:\users\xyl_1\desktop\c++\c++ primer plus\c-primer-practice\src\chapter-11\time\time.h
+	<iostream>
+
