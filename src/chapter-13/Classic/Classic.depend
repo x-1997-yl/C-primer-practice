@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1648212795 source:c:\users\xyl_1\desktop\c++\c++ primer plus\c-primer-practice\src\chapter-13\classic\main.cpp
+	<iostream>
+	"class.h"
+	<cstring>
+
+1648212459 c:\users\xyl_1\desktop\c++\c++ primer plus\c-primer-practice\src\chapter-13\classic\class.h
+	<iostream>
+
+1648212617 source:c:\users\xyl_1\desktop\c++\c++ primer plus\c-primer-practice\src\chapter-13\classic\class.cpp
+	<iostream>
+	"class.h"
+	<cstring>
+
